@@ -1,0 +1,116 @@
+body { 
+   background-image: url(imagens/mar.jpg);
+   background-size: cover  ;
+   background-repeat: no-repeat;    
+}
+
+.logotipo {
+    width: 70px;
+    height: 55px;
+    margin-top: 4%;
+     
+    
+}
+.logoindex {
+
+   background-size: 100%;
+}
+.menu_login {
+     border-color: rgb(255, 255, 255);
+}
+.bem_vindo{
+    margin-top: 19%;
+    background-color: rgb(252, 244, 236);
+    width: 50%;
+    border-radius: 45px;
+     
+}
+.navbar{
+    background-color: rgb(0, 0, 0);
+}
+.btn_cadastro{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: rgb(252, 244, 236);
+    border-radius: 45px;
+    font-style: normal;
+    color: black;
+    border-color: black;
+    
+     
+}
+.btn_login{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: rgb(252, 244, 236);
+    border-radius: 45px;
+    margin-left: 10px;
+    color: black;
+    border-color: black;
+}
+.btn_login2{
+    background-color: rgb(252, 244, 236);
+    border-radius: 45px;
+    color: black;
+    border-color: black;
+     
+}
+.btn{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: rgb(252, 244, 236);
+    border-radius: 45px;
+    color: black;
+    border-color: black;
+}
+.dropdown-menu{
+    border-radius: 45px;
+}
+.cadastro{
+    margin-top: 10%;
+    background-color: rgb(252, 244, 236);
+    width: 35%;
+    border-radius: 45px;
+}
+.btn_cadastro2{
+    background-color: rgb(252, 244, 236);
+    border-radius: 45px;
+    font-style: normal;
+    color: black;
+    border-color: black;
+}
+#btn_tweet{
+    margin-top: 0px;
+    margin-left: 10px;
+    background-color: rgb(252, 244, 236);
+    border-radius: 45px;
+    color: black;
+    border-color: black; 
+}
+#btn_procurar_pessoa{
+    margin-top: 0px;
+    margin-left: 10px;
+    background-color: rgb(252, 244, 236);
+    border-radius: 45px;
+    color: black;
+    border-color: black; 
+}
+.panel {
+    border-radius: 15px;
+     
+}
+#tweets{
+    border-radius: 15px;
+}
+.registrado_sucesso{
+    background-color: rgb(252, 244, 236);
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    margin-top: 20%;
+}
+.conteudo_registra_sucesso
+{
+    margin-top: 20%;
+}
+ 
